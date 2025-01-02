@@ -112,10 +112,10 @@ Logs detail interactions, location changes, and happiness fluctuations, providin
 ### Happiness Graphs
 Below are two happiness graphs from the simulation:
 
-![Happiness Graph - Simulation 1](simul1.png)  
+![Happiness Graph - Simulation 1](assets/simul1.png)  
 *Figure 1: Happiness Graph - Simulation 1*
 
-![Happiness Graph - Simulation 2](simul2.png)  
+![Happiness Graph - Simulation 2](assets/simul2.png)  
 *Figure 2: Happiness Graph - Simulation 2*
 
 ### Analysis
